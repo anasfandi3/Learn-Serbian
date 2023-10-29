@@ -1,9 +1,9 @@
 -download or clone the project.
 -navigate to backend folder:
-	-run composer install in the terminal.
-	-create a .env file and copy the content of .env.example to 		the .env file.
-	-run php artisan key:generate.
-	-finally, run php artisan serve.
+	-run 'composer install' in the terminal.
+	-create a .env file and copy the content of .env.example to the .env file.
+	-run 'php artisan key:generate'.
+	-finally, run 'php artisan serve'.
 -navigate to frontend folder:
-	-run npm install.
-	-run npm run dev.
+	-run 'npm install'.
+	-run 'npm run dev'.
